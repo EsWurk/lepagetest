@@ -1,0 +1,54 @@
+.my-form {
+    font-family: Arial, sans-serif;
+    width: 211px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ff11bf;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .my-input {
+    display: block;
+    width: 180px;
+    height: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .my-checkbox {
+    margin-bottom: 10px;
+  }
+  
+  .my-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .my-autres {
+    display: block;
+    width: 180px;
+    height: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .my-button:hover {
+    background-color: #0069d9;
+  }
+  #confirmation-message {
+    display: none;
+    background-color: #d9edf7;
+    color: #31708f;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
