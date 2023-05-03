@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://lepagetest-1-git-main-eswurk.vercel.app/",
+            "url": "https://lepagetest.vercel.app/",
             "webRoot": "${workspaceFolder}"
         }
     ]
