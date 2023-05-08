@@ -1,5 +1,4 @@
 require('dotenv').config();  // Importation du module dotenv
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
